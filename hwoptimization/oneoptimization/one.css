@@ -1,0 +1,39 @@
+.wall{
+    width: 700px;
+    height: 600px;
+    background: darkgray;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 5px;
+}
+
+.header{
+    height: 30%;
+}
+
+.footer{
+    column-gap: 5px;
+    height: 70%;
+    background: darkgray;
+}
+
+.block-a{
+    flex-grow: 70;
+}
+
+.block-b{
+    flex-grow: 30;
+}
+
+.width{
+    width: 100%;
+}
+
+.back{
+    background: gainsboro;
+}
+
+.flex{
+    display: flex;
+}

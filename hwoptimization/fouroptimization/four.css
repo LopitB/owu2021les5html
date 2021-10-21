@@ -1,0 +1,44 @@
+.wall{
+    width: 800px;
+    height: 800px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: bisque;
+    row-gap: 5px;
+}
+
+.head-foot{
+    height: 15%;
+    background: hotpink;
+}
+
+.nav{
+    height: 10%;
+    background: purple;
+}
+
+.main-aside{
+    column-gap: 5px;
+    height: 60%;
+}
+
+.main{
+    flex-grow: 80;
+}
+
+.aside{
+    flex-grow: 20;
+}
+
+.flex{
+    display: flex;
+}
+
+.back{
+    background: plum;
+}
+
+.width{
+    width: 100%;
+}

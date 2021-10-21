@@ -1,0 +1,49 @@
+.wall{
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 800px;
+    background: bisque;
+}
+
+.head-foot{
+    height: 20%;
+    background: goldenrod;
+}
+
+.menu-posts{
+    height: 80%;
+    column-gap: 10px;
+}
+
+.menu{
+    flex-grow: 30;
+}
+
+.posts{
+    flex-grow: 70;
+}
+
+.post{
+    height: 50%;
+}
+
+.flex{
+    display: flex;
+}
+
+.direction{
+    flex-direction: column;
+}
+
+.row{
+    row-gap: 10px;
+}
+
+.width{
+    width: 100%;
+}
+
+.back{
+    background: hotpink;
+}

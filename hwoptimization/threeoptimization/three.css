@@ -1,0 +1,41 @@
+.wall{
+    flex-direction: column;
+    justify-content: center;
+    width: 600px;
+    height: 900px;
+    background: bisque;
+    row-gap: 10px;
+}
+
+.blocks{
+    justify-content: space-between;
+}
+
+.block{
+    width: 30%;
+    height: 100%;
+    background: purple;
+}
+
+.contact{
+    width: 100%;
+    height: 50%;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.width{
+    width: 100%;
+}
+
+.back{
+    background: slateblue;
+}
+
+.height{
+    height: 25%;
+}
+
