@@ -1,0 +1,85 @@
+.wall{
+    width: 800px;
+    height: 400px;
+    background: white;
+    row-gap: 10px;
+}
+
+.head-foot{
+    text-align: center;
+}
+
+.blocks{
+    width: 90%;
+    height: 95%;
+    border-radius: 15px;
+    border: solid aqua ;
+}
+
+.blocks-posts{
+    height: 60%;
+    justify-content: space-around;
+}
+
+.post{
+    width: 15%;
+}
+
+.block{
+    border-radius: 5px;
+    height: 80%;
+    background: darkslategray;
+}
+
+.circle-text{
+    width: 25%;
+    box-sizing: border-box;
+}
+
+.circle-text p{
+    width: 70%;
+    color: white;
+}
+
+.circle{
+    width: 50%;
+    height: 50%;
+    background: white;
+    border-radius: 50%;
+}
+
+.border{
+    border: solid aqua;
+}
+
+.flex{
+    display: flex;
+}
+
+.center{
+    justify-content: center;
+}
+
+.height{
+    height: 100%;
+}
+
+.width{
+    width: 100%;
+}
+
+.align{
+    align-items: center;
+}
+
+.direction{
+    flex-direction: column;
+}
+
+.back-a{
+    background: white;
+}
+
+.back-b{
+    background: darkslategray;
+}

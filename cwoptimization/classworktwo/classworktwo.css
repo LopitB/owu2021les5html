@@ -1,0 +1,269 @@
+.wall {
+    width: 900px;
+    height: 1500px;
+}
+
+.up-blocks {
+    height: 5%;
+}
+
+.block-one {
+    justify-content: end;
+}
+
+.fish {
+    width: 5%;
+}
+
+.block-one-buttons {
+    justify-content: space-evenly;
+}
+
+.block-one-button {
+    border-radius: 10px;
+    width: 15%;
+}
+
+.block-two {
+    height: 60%;
+}
+
+.block-two-blocks {
+    column-gap: 5px;
+    width: 45%;
+}
+
+.block-two-blocks-logo {
+    align-items: center;
+    border-radius: 10px;
+}
+
+.block-two-blocks-button {
+    height: 10%;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.block-logo {
+    text-align: center;
+}
+
+.block-logo p {
+    width: 40%;
+    color: darkslategray;
+}
+
+.block-logo-button {
+    height: 15%;
+    border-radius: 20px;
+}
+
+.block-posts-border {
+    flex-wrap: wrap;
+    border: aqua solid 1px;
+    width: 90%;
+    border-radius: 20px;
+}
+
+.block-posts-border p {
+    width: 100%;
+    height: 5%;
+    color: darkslategray;
+}
+
+.block-posts-border-post {
+    height: 50%;
+}
+
+.block {
+    height: 60%;
+    border-radius: 10px;
+}
+
+.block-pictures {
+    height: 15%;
+}
+
+.picture {
+    width: 30%;
+    height: 90%;
+}
+
+.circle {
+    width: 70%;
+    border-radius: 100%;
+}
+
+.picture p {
+    color: white;
+    width: 70%;
+}
+
+.border {
+    box-sizing: border-box;
+    border: aqua solid 1px;
+}
+
+.white-board {
+    height: 35%;
+}
+
+.white-board-posts{
+    flex-wrap: wrap;
+    height: 60%;
+    column-gap: 5px;
+}
+
+.white-board-post{
+    width: 30%;
+    height: 45%;
+    border: aqua solid 1px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.post-photo{
+    width: 90%;
+    height: 45%;
+    border-radius: 5px;
+}
+
+.nav{
+    width: 90%;
+    height: 15%;
+}
+
+.nav-1{
+    flex-grow: 80;
+}
+
+.nav-1-line{
+    width: 30%;
+    background: darkslategray;
+}
+
+.nav-2{
+    flex-grow: 20;
+    column-gap: 5px;
+}
+
+.four-buttons{
+    border-top: aqua solid 1px;
+}
+
+.one-button{
+    flex-grow: 70;
+}
+
+.three-buttons{
+    column-gap: 2px;
+    flex-grow: 30;
+}
+
+.button-a{
+    width: 30%;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.button{
+    width: 10%;
+    border-radius: 5px;
+    height: 50%;
+}
+
+.banner-a{
+    height: 70%;
+}
+
+.banner-button{
+    background: darkslategray;
+    border-radius: 10px;
+}
+
+.down-blocks {
+    height: 5%;
+    row-gap: 10px;
+}
+
+.down-block {
+    width: 10%;
+    border-radius: 5px;
+}
+
+.down-line {
+    width: 50%;
+    height: 1%;
+}
+
+.fish-two {
+    column-gap: 5px;
+}
+
+.flex{
+    display: flex;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.w-80{
+    width: 80%;
+}
+
+.w-40{
+    width: 40%;
+}
+
+.w-20{
+    width: 20%;
+}
+
+.h-100{
+    height: 100%;
+}
+
+.h-80{
+    height: 80%;
+}
+
+.h-40{
+    height: 40%;
+}
+
+.h-20{
+    height: 20%;
+}
+
+.jc-c{
+    justify-content: center;
+}
+
+.jc-s-a{
+    justify-content: space-around;
+}
+
+.ai-c{
+    align-items: center;
+}
+
+.t-a-c{
+    text-align: center;
+}
+
+.fd-col{
+    flex-direction: column;
+}
+
+.b-darkslategray{
+    background: darkslategray;
+}
+
+.b-white{
+    background: white;
+}
+
+.b-aqua{
+    background: aqua;
+}
